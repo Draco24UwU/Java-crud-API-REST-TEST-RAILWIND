@@ -1,0 +1,2 @@
+# Controladores:
+Los controladores son las clases que manejan las solicitudes HTTP y devuelven las respuestas al cliente. Estos controladores utilizan los repositorios para acceder y manipular los datos de las entidades.
